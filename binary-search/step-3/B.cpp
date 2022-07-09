@@ -3,7 +3,7 @@ using namespace std;
 
 #define int long long
 
-// B. splitting an Array
+// B. Splitting an Array
 
 int n, k;
 vector<int> arr;
