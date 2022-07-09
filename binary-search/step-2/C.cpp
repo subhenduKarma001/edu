@@ -1,6 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+// C. Very Easy Task
+
 int n, x, y;
 
 bool good(int t) {

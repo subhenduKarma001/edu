@@ -1,6 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+// A. Get together
+
 int n;
 vector<int> positions, v;
 

@@ -3,6 +3,8 @@ using namespace std;
 
 #define int long long
 
+// A. Packing Rectangles
+
 int a, b, n;
 
 bool good(int x) {

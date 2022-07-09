@@ -1,6 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+// E. Equation
+
 double c;
 
 bool func(double x) {

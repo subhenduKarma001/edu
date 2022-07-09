@@ -1,6 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+// A. Binary Search 
+
 int main() {
 	ios_base::sync_with_stdio(false);
 

@@ -3,6 +3,8 @@ using namespace std;
 
 #define int long long
 
+// G. Student Councils
+
 int k, n;
 vector<int> arr;
 

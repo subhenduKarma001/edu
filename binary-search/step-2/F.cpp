@@ -1,6 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+// F. String Game
+
 string s1, s2;
 int n, m;
 vector<int> arr;

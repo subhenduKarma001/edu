@@ -1,6 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+// C. Closest to the Right
+
 int main() {
 	ios_base::sync_with_stdio(false);
 

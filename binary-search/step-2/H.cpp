@@ -3,6 +3,8 @@ using namespace std;
 
 #define int long long
 
+// H. Hamburgers
+
 struct Number {
 	int b, s, c;
 };

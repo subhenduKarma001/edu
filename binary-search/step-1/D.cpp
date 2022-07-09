@@ -1,6 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+// D. Fast search
+
 int main() {
 	int n;
 	cin >> n;

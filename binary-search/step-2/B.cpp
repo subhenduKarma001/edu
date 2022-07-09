@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-// Ropes
+// B. Ropes
 
 int n, k;
 vector<int> a;
